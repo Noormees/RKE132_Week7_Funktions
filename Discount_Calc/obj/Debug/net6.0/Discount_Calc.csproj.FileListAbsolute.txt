@@ -1,0 +1,15 @@
+C:\Users\Noormees\source\repos\Week7_Functions\Discount_Calc\bin\Debug\net6.0\Discount_Calc.exe
+C:\Users\Noormees\source\repos\Week7_Functions\Discount_Calc\bin\Debug\net6.0\Discount_Calc.deps.json
+C:\Users\Noormees\source\repos\Week7_Functions\Discount_Calc\bin\Debug\net6.0\Discount_Calc.runtimeconfig.json
+C:\Users\Noormees\source\repos\Week7_Functions\Discount_Calc\bin\Debug\net6.0\Discount_Calc.dll
+C:\Users\Noormees\source\repos\Week7_Functions\Discount_Calc\bin\Debug\net6.0\Discount_Calc.pdb
+C:\Users\Noormees\source\repos\Week7_Functions\Discount_Calc\obj\Debug\net6.0\Discount_Calc.csproj.AssemblyReference.cache
+C:\Users\Noormees\source\repos\Week7_Functions\Discount_Calc\obj\Debug\net6.0\Discount_Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noormees\source\repos\Week7_Functions\Discount_Calc\obj\Debug\net6.0\Discount_Calc.AssemblyInfoInputs.cache
+C:\Users\Noormees\source\repos\Week7_Functions\Discount_Calc\obj\Debug\net6.0\Discount_Calc.AssemblyInfo.cs
+C:\Users\Noormees\source\repos\Week7_Functions\Discount_Calc\obj\Debug\net6.0\Discount_Calc.csproj.CoreCompileInputs.cache
+C:\Users\Noormees\source\repos\Week7_Functions\Discount_Calc\obj\Debug\net6.0\Discount_Calc.dll
+C:\Users\Noormees\source\repos\Week7_Functions\Discount_Calc\obj\Debug\net6.0\refint\Discount_Calc.dll
+C:\Users\Noormees\source\repos\Week7_Functions\Discount_Calc\obj\Debug\net6.0\Discount_Calc.pdb
+C:\Users\Noormees\source\repos\Week7_Functions\Discount_Calc\obj\Debug\net6.0\Discount_Calc.genruntimeconfig.cache
+C:\Users\Noormees\source\repos\Week7_Functions\Discount_Calc\obj\Debug\net6.0\ref\Discount_Calc.dll

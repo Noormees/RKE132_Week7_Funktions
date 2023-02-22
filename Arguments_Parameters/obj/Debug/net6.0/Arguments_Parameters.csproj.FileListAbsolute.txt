@@ -1,0 +1,15 @@
+C:\Users\Noormees\source\repos\Week7_Functions\Arguments_Parameters\bin\Debug\net6.0\Arguments_Parameters.exe
+C:\Users\Noormees\source\repos\Week7_Functions\Arguments_Parameters\bin\Debug\net6.0\Arguments_Parameters.deps.json
+C:\Users\Noormees\source\repos\Week7_Functions\Arguments_Parameters\bin\Debug\net6.0\Arguments_Parameters.runtimeconfig.json
+C:\Users\Noormees\source\repos\Week7_Functions\Arguments_Parameters\bin\Debug\net6.0\Arguments_Parameters.dll
+C:\Users\Noormees\source\repos\Week7_Functions\Arguments_Parameters\bin\Debug\net6.0\Arguments_Parameters.pdb
+C:\Users\Noormees\source\repos\Week7_Functions\Arguments_Parameters\obj\Debug\net6.0\Arguments_Parameters.csproj.AssemblyReference.cache
+C:\Users\Noormees\source\repos\Week7_Functions\Arguments_Parameters\obj\Debug\net6.0\Arguments_Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noormees\source\repos\Week7_Functions\Arguments_Parameters\obj\Debug\net6.0\Arguments_Parameters.AssemblyInfoInputs.cache
+C:\Users\Noormees\source\repos\Week7_Functions\Arguments_Parameters\obj\Debug\net6.0\Arguments_Parameters.AssemblyInfo.cs
+C:\Users\Noormees\source\repos\Week7_Functions\Arguments_Parameters\obj\Debug\net6.0\Arguments_Parameters.csproj.CoreCompileInputs.cache
+C:\Users\Noormees\source\repos\Week7_Functions\Arguments_Parameters\obj\Debug\net6.0\Arguments_Parameters.dll
+C:\Users\Noormees\source\repos\Week7_Functions\Arguments_Parameters\obj\Debug\net6.0\refint\Arguments_Parameters.dll
+C:\Users\Noormees\source\repos\Week7_Functions\Arguments_Parameters\obj\Debug\net6.0\Arguments_Parameters.pdb
+C:\Users\Noormees\source\repos\Week7_Functions\Arguments_Parameters\obj\Debug\net6.0\Arguments_Parameters.genruntimeconfig.cache
+C:\Users\Noormees\source\repos\Week7_Functions\Arguments_Parameters\obj\Debug\net6.0\ref\Arguments_Parameters.dll

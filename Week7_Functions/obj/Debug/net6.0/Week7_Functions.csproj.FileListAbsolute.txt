@@ -1,0 +1,15 @@
+C:\Users\Noormees\source\repos\Week7_Functions\Week7_Functions\bin\Debug\net6.0\Week7_Functions.exe
+C:\Users\Noormees\source\repos\Week7_Functions\Week7_Functions\bin\Debug\net6.0\Week7_Functions.deps.json
+C:\Users\Noormees\source\repos\Week7_Functions\Week7_Functions\bin\Debug\net6.0\Week7_Functions.runtimeconfig.json
+C:\Users\Noormees\source\repos\Week7_Functions\Week7_Functions\bin\Debug\net6.0\Week7_Functions.dll
+C:\Users\Noormees\source\repos\Week7_Functions\Week7_Functions\bin\Debug\net6.0\Week7_Functions.pdb
+C:\Users\Noormees\source\repos\Week7_Functions\Week7_Functions\obj\Debug\net6.0\Week7_Functions.csproj.AssemblyReference.cache
+C:\Users\Noormees\source\repos\Week7_Functions\Week7_Functions\obj\Debug\net6.0\Week7_Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noormees\source\repos\Week7_Functions\Week7_Functions\obj\Debug\net6.0\Week7_Functions.AssemblyInfoInputs.cache
+C:\Users\Noormees\source\repos\Week7_Functions\Week7_Functions\obj\Debug\net6.0\Week7_Functions.AssemblyInfo.cs
+C:\Users\Noormees\source\repos\Week7_Functions\Week7_Functions\obj\Debug\net6.0\Week7_Functions.csproj.CoreCompileInputs.cache
+C:\Users\Noormees\source\repos\Week7_Functions\Week7_Functions\obj\Debug\net6.0\Week7_Functions.dll
+C:\Users\Noormees\source\repos\Week7_Functions\Week7_Functions\obj\Debug\net6.0\refint\Week7_Functions.dll
+C:\Users\Noormees\source\repos\Week7_Functions\Week7_Functions\obj\Debug\net6.0\Week7_Functions.pdb
+C:\Users\Noormees\source\repos\Week7_Functions\Week7_Functions\obj\Debug\net6.0\Week7_Functions.genruntimeconfig.cache
+C:\Users\Noormees\source\repos\Week7_Functions\Week7_Functions\obj\Debug\net6.0\ref\Week7_Functions.dll
